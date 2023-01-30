@@ -55,4 +55,11 @@ out/
 *.ear
 *.zip
 *.tar.gz
-*.rar
+*.rar### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
